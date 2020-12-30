@@ -1,0 +1,16 @@
+Enstall kali linux in phone
+
+Pkg update && pkg upgrade
+Clear 
+Pkg install fish 
+Fish
+Clear
+Termux-setup-storage
+Ls
+Pkg install wget
+Clear
+wget -O install-nethunter-termux https://offs.ec/2MceZWr
+Ls -l
+Chmod 777 install-nethunter-termux
+Ls
+./install-nethunter--termux
